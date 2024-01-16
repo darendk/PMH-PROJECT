@@ -13,9 +13,9 @@ written by BALOOMOODY DAREN & BEEHARRY VIBAHAKARSINGH
 
 
 ## Installation
- -the folder contains a zip folder eg: *barcode.zip* 
- -Unzipped the barcode folder 
--paste folder in your VS CODE environment for flutter eg: local/src
+ - #the folder contains a zip folder eg: *barcode.zip* 
+ - #Unzipped the barcode folder 
+- #paste folder in your VS CODE environment for flutter eg: local/src
 
 First step:
 ```sh
