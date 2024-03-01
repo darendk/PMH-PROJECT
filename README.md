@@ -6,7 +6,12 @@ written by BALOOMOODY DAREN & BEEHARRY VIBAHAKARSINGH
 
 ## FOLDER
 
-- #barcode
+- #barcode: contains the project folder.
+- #rapport: contains the documentation.
+- #pictures: contains the wireflow, wireframes,prototype.
+- #animation: contains the application animation.
+- #Testing: contains the Mobile testing.
+- #Video recording: contains the video presentation.
 
 
 
